@@ -1,6 +1,4 @@
-# 🎧 Task 3 - Audio
-
-Audio-Based Music Playlist Clustering
+# 🎧 Task 3 - Audio-Based Music Playlist Clustering
 
 This project clusters songs into playlists based on their **audio similarity**, using both classical audio features and deep learning embeddings.
 
