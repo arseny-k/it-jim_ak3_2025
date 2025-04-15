@@ -176,3 +176,4 @@ cython_debug/
 
 data/
 models/
+models/Cnn14_mAP=0.431.pth
