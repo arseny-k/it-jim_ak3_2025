@@ -1,0 +1,7 @@
+torch>=1.10.0
+torchaudio>=0.10.0
+scikit-learn
+numpy
+librosa
+tqdm
+git+https://github.com/qiuqiangkong/torchlibrosa
